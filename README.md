@@ -1,0 +1,1 @@
+These are all Releases I made for the Forgermod, after choosing wheater you want the forge or neoforge version, you probably want to download the newest Version. The File on the bottom is the newest, after clicking on it, you click on download (top right). You can use the .jar file like any other mod file.
